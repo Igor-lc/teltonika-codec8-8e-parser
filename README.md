@@ -1,4 +1,4 @@
-Teltonika codec8-8e-parser parser with proper CRC handling.
+Teltonika codec8-8e-parser with proper CRC handling.
 Ready-to-use for trackers!
 
 
