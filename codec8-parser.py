@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Teltonika parser with proper CRC handling
+# Teltonika codec8-8e-parser parser with proper CRC handling
 
 import sys
 import argparse
