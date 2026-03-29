@@ -2,7 +2,10 @@ Teltonika codec8-8e-parser parser with proper CRC handling.
 Ready-to-use for trackers!
 
 
-## Code Example
+## Code Example (real data with Radio-Electronic Warfare):
+Enter full packet hex: 000000000000007b0803000001ab8a75c790002dedeeecf8d2160303e701420a00ca0004021504ef000242294a430e100000000001ab8a75cf60002dee05f8f8d236c203e601480a00c90004021504ef0002422922430e060000000001ab8a75d730002dee193ef8d259da03e6014e0a00c90004021504ef0002422922430e10
+
+
 ======================================================================
 FINAL CORRECTED TELTONIKA CODEC 8/8E PARSER
 ======================================================================
