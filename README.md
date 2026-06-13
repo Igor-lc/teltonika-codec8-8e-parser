@@ -8,7 +8,7 @@ Enter full packet hex: 000000000000002908010000019d3bf1ca780012bc9d341dd5bee4007
 ======================================================================
 FINAL CORRECTED TELTONIKA CODEC 8/8E PARSER
 ======================================================================
-📦 Packet Structure:
+Packet Structure:
    Preamble: 00000000
    Data Field Length: 41 bytes
    Codec ID: 0x08 (Codec 8)
@@ -17,7 +17,7 @@ FINAL CORRECTED TELTONIKA CODEC 8/8E PARSER
    Number of Data Records: 1
 ----------------------------------------------------------------------
 
-📝 RECORD 1/1:
+RECORD 1/1:
    ========================================
    Timestamp: 1774827195000 ms -> 23:33:15 29-03-2026 (UTC)
    Priority: 0
@@ -37,23 +37,23 @@ FINAL CORRECTED TELTONIKA CODEC 8/8E PARSER
       IO ID 67: 3.960 V
    4-byte IO count: 0
    8-byte IO count: 0
-   ✅ RECORD 1 PARSED SUCCESSFULLY
+   RECORD 1 PARSED SUCCESSFULLY
    ----------------------------------------
 
-📊 Number of Data 2: 1
+Number of Data 2: 1
 
-🔒 CRC VERIFICATION:
+CRC VERIFICATION:
    Data for CRC: 0x08010000019D3BF1CA780012BC9D341DD5BEE40076010C0A00000003011503024262AC430F78000001 (41 bytes)
    Calculated CRC: 0xB602
    Packet CRC: 0x0000B602
-   ✅ CRC CHECK PASSED!
+   CRC CHECK PASSED!
 
-🎯 FINAL SUMMARY:
+FINAL SUMMARY:
    Expected records: 1
    Successfully parsed: 1
    Incomplete records: 0
    Failed records: 0
-   ✅ ALL RECORDS PARSED SUCCESSFULLY
+   ALL RECORDS PARSED SUCCESSFULLY
 ======================================================================
 
 Process finished with exit code 0
